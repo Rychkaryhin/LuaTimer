@@ -1,5 +1,8 @@
 # OBS LuaTimer Script
 
+<img width="1085" height="698" alt="image" src="https://github.com/user-attachments/assets/aedea3e1-e1a0-4dee-80ef-7a5fcf28b469" />
+
+
 **Автор:** [Rychka](https://t.me/rychkayt)
 
 Этот скрипт предназначен для вывода текущего времени и обратного отсчета до заданных событий на стриме или записи в OBS Studio. Оптимизирован для минимальной нагрузки на систему за счет асинхронного обновления источников.
